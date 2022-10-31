@@ -1,0 +1,39 @@
+.div1{
+    width:"351";
+    height:"113";
+    text-align: center;
+}
+.div3{
+    font-size: -1px;
+}
+.body{
+    background-color:white;
+    text-align: center;
+    font-size: 15px;
+}
+.table{
+    border: 0, solid, white;
+    width: 90%;
+    text-align: center;
+    font-size: inherit;
+    padding-left: 8%;
+}
+.td1{
+    background-color: #EEEEEE;
+}
+.td2{
+    background-color: #7EE5DA;
+    width: 37%;
+    text-align: center;
+
+}
+.td3{
+    background-color: #70CCC2;
+    text-align: center;
+    font-size: -1px;
+}
+.td4{
+    text-align: center;
+    background-color: #62B3AA;
+    font-size: -1px;
+}
